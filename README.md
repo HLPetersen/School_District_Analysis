@@ -6,7 +6,7 @@ This is an analysis of school data. The csv file contained the student name, id,
 <img width="300" alt="student count by type" src="https://user-images.githubusercontent.com/116980760/204167136-f5996752-92b9-473d-bc9a-812fe4dfd4ce.PNG">
 
 ### Purpose of Analysis   
-How does school type and grade level influence standardized math and reading scores in the school district? The purpose of this analysis is to determine patterns and trends in the data that mighht be a basis for school decisions at a district level.  
+How does school type and grade level influence standardized math and reading scores in the school district? The purpose of this analysis is to determine patterns and trends in the data that might be a basis for school decisions at a district level.  
 
 ## <u>Analysis and Challenges</u>
 The original data set contained information about 19,514 students. 1,968 reading scores and 982 math scores were missing for students in the dataset. Students who were missing one or both scores were excluded from the analysis. After those students were dropped, there was still 1,836 duplicated rows of student data. The duplicates were also removed. 
